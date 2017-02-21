@@ -4,3 +4,4 @@ cache/
 vendor/
 .vagrant/
 .env
+.idea/

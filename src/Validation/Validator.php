@@ -51,6 +51,7 @@ class Validator
                 }
             }
         }
+
         return $errors;
 
     }
